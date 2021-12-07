@@ -1,0 +1,3 @@
+D:/Orbbec/OrbbecCapture/cpp/build/CMakeFiles/ONI_capture.dir
+D:/Orbbec/OrbbecCapture/cpp/build/CMakeFiles/ALL_BUILD.dir
+D:/Orbbec/OrbbecCapture/cpp/build/CMakeFiles/ZERO_CHECK.dir

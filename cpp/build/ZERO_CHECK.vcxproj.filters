@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Orbbec\OrbbecCapture\cpp\build\CMakeFiles\99cec9f7b9e0d7f9b1521f34ec0ede2a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EF9FB9C7-44D0-3053-99F8-50637BB3E5BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
